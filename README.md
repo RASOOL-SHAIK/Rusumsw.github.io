@@ -1,3 +1,3 @@
 # Rusumsw.github.io
 
-https://rasool-shaik.github.io/Rusumsw/ tap here for quick review of my project. 
+Hoisted link : https://rasool-shaik.github.io/Stopwatch/ tap here for quick review of my project. 
